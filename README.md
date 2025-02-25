@@ -13,8 +13,6 @@
 
 ### 1. Block Structure
 
-A block should contain:
-
 - Index: The position of the block in the chain.
 - Timestamp: When the block was created.
 - Previous Hash: The hash of the previous block in the chain.
