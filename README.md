@@ -42,7 +42,7 @@ The Proof of Work algorithm is a simple computational puzzle that ensures blocks
 
 ## Tests
 
-A set of initial tests is provided to help you validate your solution.
+A set of initial tests is provided.
 
 To run the tests:
 
