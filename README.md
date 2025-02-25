@@ -1,6 +1,6 @@
 
 
-## Description: Implementing a State Machine-Based Blockchain with Balance transfers
+## Description: a State Machine-Based Blockchain with Balance transfers
 
 ## Overview
  a simplified version of a Proof of Work (PoW) blockchain. The main goal of this assignment is to show the understanding you have of the core principles of blockchain technology, including block creation, proof of work, and validation of blocks. Also show some basic balance tracking and implementing transactions between accounts.
